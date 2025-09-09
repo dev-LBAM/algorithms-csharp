@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\bin\Debug\net9.0\AlgorithmsCSharp.exe
+C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\bin\Debug\net9.0\AlgorithmsCSharp.deps.json
+C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\bin\Debug\net9.0\AlgorithmsCSharp.runtimeconfig.json
+C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\bin\Debug\net9.0\AlgorithmsCSharp.dll
+C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\bin\Debug\net9.0\AlgorithmsCSharp.pdb
+C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\obj\Debug\net9.0\AlgorithmsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\obj\Debug\net9.0\AlgorithmsCSharp.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\obj\Debug\net9.0\AlgorithmsCSharp.AssemblyInfo.cs
+C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\obj\Debug\net9.0\AlgorithmsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\obj\Debug\net9.0\AlgorithmsCSharp.dll
+C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\obj\Debug\net9.0\refint\AlgorithmsCSharp.dll
+C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\obj\Debug\net9.0\AlgorithmsCSharp.pdb
+C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\obj\Debug\net9.0\AlgorithmsCSharp.genruntimeconfig.cache
+C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\obj\Debug\net9.0\ref\AlgorithmsCSharp.dll
