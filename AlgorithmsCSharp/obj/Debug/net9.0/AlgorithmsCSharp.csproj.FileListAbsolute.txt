@@ -12,3 +12,4 @@ C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\obj\Debug\net9.0\refin
 C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\obj\Debug\net9.0\AlgorithmsCSharp.pdb
 C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\obj\Debug\net9.0\AlgorithmsCSharp.genruntimeconfig.cache
 C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\obj\Debug\net9.0\ref\AlgorithmsCSharp.dll
+C:\Users\lucas\Desktop\algorithms-csharp\algorithmscsharp\obj\Debug\net9.0\AlgorithmsCSharp.sourcelink.json
